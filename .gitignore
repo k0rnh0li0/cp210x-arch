@@ -1,2 +1,9 @@
 *.zip
 notes.txt
+.*
+Module.symvers
+*.ko
+*.mod
+*.o
+*.mod.c
+modules.order

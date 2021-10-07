@@ -1,5 +1,5 @@
 obj-m = cp210x.o
-KDIR = /lib/modules/`uname -r`/build
+KDIR = /usr/src/linux
 SRCDIR = $(PWD)
 # try this instead if you don't have PWD defined
 # SRCDIR = $(shell dirname $(realpath $(lastword $(MAKEFILE_LIST))))
