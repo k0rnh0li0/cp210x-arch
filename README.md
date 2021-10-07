@@ -1,6 +1,6 @@
 # cp210x-arch
 
-This repo contains the CP210x USB to UART driver source as downloaded from Silabs, modified
+This repo contains the CP210x USB to UART driver source as downloaded from SiLabs, modified
 for building on Arch Linux.
 
 ### Building/installation steps:
